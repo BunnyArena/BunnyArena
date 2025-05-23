@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m BunnyArena 🐰
 
-<!--
-**BunnyArena/BunnyArena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Solo member. Leader. Builder. Everything.**
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I do it all myself—from brainstorming ideas to deploying production-ready code. If you see something here, you can bet every line is mine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- HTML | CSS | JavaScript  
+- Node.js | Express  
+- PostgreSQL
+
+## 🛠️ What I Do
+
+- Design, develop, and deploy full-stack applications from scratch
+- Architect robust backends and craft sleek, responsive UIs
+- Automate, optimize, and push the boundaries of what one person can build
+
+## 🏆 Philosophy
+
+If you want something done right, do it yourself.
+
+---
+
+Thanks for stopping by!  
+— BunnyArena
